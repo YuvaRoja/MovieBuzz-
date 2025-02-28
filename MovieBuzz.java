@@ -50,3 +50,31 @@ public class MovieBuzz
 }
 
 
+
+OUTPUT:
+Enter Your Hero: movie
+bala
+chiru
+balaya
+
+Enter Your Hero: bala
+bala 1
+bala 2
+bala 3
+
+Enter Your Hero: chiru
+chiru 1
+chiru 2
+chiru 3
+chiru 4
+
+Enter Your Hero: balaya
+bala 1
+bala 2
+bala 3
+
+Enter Your Hero: exit
+Exiting MovieBuzz.
+
+
+
